@@ -1,0 +1,3 @@
+interface ISteppable {
+  void step();
+}

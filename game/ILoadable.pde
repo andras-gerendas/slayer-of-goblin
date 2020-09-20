@@ -1,0 +1,3 @@
+interface ILoadable {
+  void load();
+}
